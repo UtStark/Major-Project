@@ -1,0 +1,57 @@
+﻿@model CollegeWebsite.Models.ViewModel.RegistrationVM
+@{
+    ViewData["Title"] = "Issued Books";
+}
+
+<table class="table table-bordered table-striped table-dark" style="width:100%">
+    <thead>
+        <tr>
+
+            <th scope="col">
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["NameSortParm"]" asp-route-currentFilter="@ViewData["CurrentFilter"]">Book Name</a>
+
+
+            </th>
+            <th scope="col">
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["AuthSortParm"]" asp-route-currentFilter="@ViewData["CurrentFilter"]">Aurthor Name</a>
+
+            </th>
+
+
+            <th scope="col">
+                Issued Date
+            </th>
+
+            <th scope="col">
+                Due Date
+            </th>
+
+           
+
+            <th scope="col"></th>
+
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var obj in Model.IssuedBooks)
+        {
+            <tr>
+                <td width="50%">@obj.BookName</td>
+                <td width="30%">@obj.AuthorName</td>
+            
+                <td width="30%">@obj.IssueDate</td>
+                <td width="30%">@obj.DueDate</td>
+                
+
+
+
+            </tr>
+        }
+
+        
+
+    </tbody>
+</table>
+
+<h1>Pending Fine : @Model.Form.Fine</h1>>

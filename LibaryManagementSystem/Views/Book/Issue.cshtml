@@ -1,0 +1,120 @@
+﻿@model CollegeWebsite.Models.Book
+@{
+    ViewData["Title"] = "Issue";
+    var title = "Issue Book";
+    Layout = null;
+}
+
+
+<form asp-action="Issue" asp-route-id="@Model.Id" method="post" onsubmit="return jQueryAjaxIssue(this);" enctype="multipart/form-data">
+    <div class="border p-3">
+
+
+
+
+        <div class="form-group row">
+            <h2 class="text-info pl-3">@title</h2>
+        </div>
+
+
+        <input asp-for="Id" hidden />
+        <input asp-for="ISBN" hidden />
+        <input asp-for="Issued" hidden />
+
+
+
+
+        <div class="row">
+            <div class="col-8">
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="BookName"></label>
+                    </div>
+                    <div class="col-8">
+                        <input readonly asp-for="BookName" class="form-control" />
+                        <span asp-validation-for="BookName" class="text-danger"></span>
+                    </div>
+
+                </div>
+
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="AuthorName"></label>
+                    </div>
+                    <div class="col-8">
+                        <input readonly asp-for="AuthorName" class="form-control" />
+                        <span asp-validation-for="AuthorName" class="text-danger"></span>
+                    </div>
+
+                </div>
+
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="IssuedStudentId"></label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="IssuedStudentId" class="form-control" />
+                        <span asp-validation-for="IssuedStudentId" class="text-danger"></span>
+                    </div>
+
+                </div>
+
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="IssueDate"></label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="IssueDate" value="@DateTime.Now.ToString("dd-MM-yyyy")" class="form-control" />
+                        <span asp-validation-for="IssueDate" class="text-danger"></span>
+                    </div>
+
+                </div>
+
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="DueDate"></label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="DueDate" class="form-control" />
+                        <span asp-validation-for="DueDate" class="text-danger"></span>
+                    </div>
+
+                </div>
+
+
+
+
+
+
+
+
+                <div class="form-group row">
+                    <div class="col-8 offset-4 row">
+
+                        <div class="col">
+
+                            <input type="submit" class="btn btn-info w-100" value="Issue" />
+
+
+
+                        </div>
+                        <div class="col">
+                            <a asp-action="Index" class="btn btn-success w-100"><i class="fas fa-sign-out-alt"></i> Back</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+
+
+
+}

@@ -1,0 +1,110 @@
+﻿@model PaginatedList<CollegeWebsite.Models.Book>
+<table class="table table-bordered table-striped table-dark" style="width:100%">
+    <thead>
+        <tr>
+
+            <th scope="col">
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["NameSortParm"]" asp-route-currentFilter="@ViewData["CurrentFilter"]">Book Name</a>
+
+
+            </th>
+            <th scope="col">
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["AuthSortParm"]" asp-route-currentFilter="@ViewData["CurrentFilter"]">Aurthor Name</a>
+
+            </th>
+
+
+            <th scope="col">
+                ISBN
+            </th>
+
+            <th scope="col">
+                Student Id
+            </th>
+
+            <th scope="col">
+                Issued Date
+            </th>
+
+            <th scope="col">
+                Due Date
+            </th>
+
+            <th scope="col">
+                Status
+            </th>
+            <th scope="col">Issue/Return</th>
+
+            <th scope="col"></th>
+
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var obj in Model)
+        {
+        <tr>
+            <td width="50%">@obj.BookName</td>
+            <td width="30%">@obj.AuthorName</td>
+            <td width="30%">@obj.ISBN</td>
+            <td width="30%">@obj.IssuedStudentId</td>
+            <td width="30%">@obj.IssueDate</td>
+            <td width="30%">@obj.DueDate</td>
+            @if (obj.Issued)
+            {
+                <td width="30%">Issued</td>
+            }
+            else
+            {
+                <td width="30%">Available</td>
+            }
+
+            <td class="text-center">
+
+                <div class="w-75 btn-group " role="group">
+
+                    <a class="btn btn-primary " onclick="showInPopup('Book/Issue/@obj.Id.ToString()', 'Issue Book')"><i class="fas fa-plus"></i> Issue</a>
+                    <a asp-route-Id="@obj.Id" asp-action="Return" class="btn btn-danger mx-1"><i class="far fa-edit"></i>  Return</a>
+
+                </div>
+            </td>
+
+            <td class="text-center">
+
+                <div class="w-75 btn-group " role="group">
+                    <!--<a asp-route-Id="@obj.Id" asp-action="Upsert" class="btn btn-primary mx-1"><i class="far fa-edit"></i>  Edit</a>-->
+
+
+
+                    <a class="btn btn-primary " onclick="showInPopup('Book/Upsert/@obj.Id.ToString()', 'Edit Book')"><i class="fas fa-plus"></i> Edit</a>
+                    <a onclick="showInPopup('Book/Delete/@obj.Id.ToString()', 'Delete Book')" class="btn btn-danger "><i class="far fa-trash-alt"></i>  Delete</a>
+
+                </div>
+            </td>
+
+        </tr>
+        }
+
+
+    </tbody>
+</table>
+
+@{
+    var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+}
+
+<a asp-action="Index"
+   asp-route-sortOrder="@ViewData["CurrentSort"]"
+   asp-route-pageNumber="@(Model.PageIndex - 1)"
+   asp-route-currentFilter="@ViewData["CurrentFilter"]"
+   class="btn btn-default @prevDisabled">
+    Previous
+</a>
+<a asp-action="Index"
+   asp-route-sortOrder="@ViewData["CurrentSort"]"
+   asp-route-pageNumber="@(Model.PageIndex + 1)"
+   asp-route-currentFilter="@ViewData["CurrentFilter"]"
+   class="btn btn-default @nextDisabled">
+    Next
+</a>

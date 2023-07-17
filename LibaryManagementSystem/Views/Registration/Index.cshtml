@@ -1,0 +1,141 @@
+﻿@model IEnumerable<CollegeWebsite.Models.User>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container p-3">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h2 class="text-primary"> List Of Users</h2>
+        </div>
+
+
+
+        <div class="col-6 text-right">
+            <a class="btn btn-primary " asp-controller="Registration" asp-action="Upsert"><i class="fas fa-plus"></i> Create New User</a>
+
+        </div>
+
+
+
+    </div>
+
+
+
+
+    <br> </br>
+    <div class="container">
+        <div class="row  justify-content-start">
+            <div class="col-4 ">
+                
+                <form asp-action="Index" method="get">
+
+
+                    
+                        
+                    <div class="form-group row">
+                        <div class="col-4">
+                            <p>
+                                Find By Name: <input type="text" name="SearchString" value="@ViewData["CurrentFilter"]" />
+
+                            </p>
+                        </div>
+                        <div class="col-4 ">
+                            <input type="submit" value="Search" class="btn btn-default btn-primary" /> |
+
+                        </div>
+
+                        <div class="col-4 ">
+
+                            <a asp-action="Index">Back to Full List</a>
+                        </div>
+
+                    </div>
+
+                        
+
+
+                    
+
+                    
+
+                    
+
+                </form>
+
+
+
+            </div>
+            
+
+
+
+
+
+
+
+        </div>
+
+
+
+    </div>
+
+    <div class="container">
+        <div class="row  justify-content-start">
+            <div class="col-4 ">
+
+                
+            </div>
+        </div>
+    </div>
+            <br> </br>
+
+            @if (Model.Count() > 0)
+            {
+                <table class="table table-bordered table-striped table-dark" style="width:100%">
+                    <thead>
+                        <tr>
+
+                            <th scope="col">
+
+                                <a asp-action="Index"  asp-route-sortOrder="@ViewData["UnameSortParm"]">@Html.DisplayNameFor(model => model.UserName)</a>
+
+                            </th>
+                            <th scope="col">
+                                <a asp-action="Index" asp-controller="Registration" asp-route-sortOrder="@ViewData["NameSortParm"]">@Html.DisplayNameFor(model => model.FirstName)</a>
+                            </th>
+                            <th scope="col"></th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @foreach (var obj in Model)
+                        {
+                            <tr>
+                                <td width="50%">@obj.UserName</td>
+                                <td width="30%">@obj.FirstName</td>
+                                <td class="text-center">
+
+                                    <div class="w-75 btn-group " role="group">
+                                        <a asp-controller="Registration" asp-route-Id="@obj.Id" asp-action="Upsert" class="btn btn-primary mx-1"><i class="far fa-edit"></i>  Edit</a>
+                                        <a asp-controller="Registration" asp-route-Id="@obj.Id" asp-action="Delete" class="btn btn-danger "><i class="far fa-trash-alt"></i>  Delete</a>
+
+                                    </div>
+                                </td>
+
+                            </tr>
+                        }
+
+
+                    </tbody>
+                </table>
+
+            }
+
+            else
+            { <p> No User</p>}
+
+
+        </div>

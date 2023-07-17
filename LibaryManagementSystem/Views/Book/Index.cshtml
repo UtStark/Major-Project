@@ -1,0 +1,113 @@
+﻿
+@model PaginatedList<CollegeWebsite.Models.Book>
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<div class="container p-3">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h2 class="text-primary"> List Of Books</h2>
+        </div>
+
+
+
+        <div class="col-6 text-right">
+
+            <!--<a class="btn btn-primary " onclick="showInPopup('@Url.Action("Upsert","Book",null,Context.Request.Scheme)', 'New Book')"><i class="fas fa-plus"></i> Create New Book</a>-->
+            <a class="btn btn-primary " onclick="showInPopup('Book/Upsert', 'New Book')"><i class="fas fa-plus"></i> Create New Book</a>
+
+
+        </div>
+
+
+
+    </div>
+
+
+
+
+    <br> </br>
+    <div class="container">
+        <div class="row  justify-content-start">
+            <div class="col-4 ">
+
+                <form asp-action="Index" method="get">
+
+
+
+
+                    <div class="form-group row">
+                        <div class="col-4">
+                            <p>
+                                Find By Name: <input type="text" name="SearchString" value="@ViewData["CurrentFilter"]" />
+
+                            </p>
+                        </div>
+                        <div class="col-4 ">
+                            <input type="submit" value="Search" class="btn btn-default btn-primary" /> |
+
+                        </div>
+
+                        <div class="col-4 ">
+
+                            <a asp-action="Index">Back to Full List</a>
+                        </div>
+
+                    </div>
+
+
+
+
+
+
+
+
+
+
+
+                </form>
+
+
+
+            </div>
+
+
+
+
+
+
+
+
+        </div>
+
+
+
+    </div>
+
+    <div class="container">
+        <div class="row  justify-content-start">
+            <div class="col-4 ">
+
+
+            </div>
+        </div>
+    </div>
+    <br> </br>
+
+    @if (Model.Count() > 0)
+    {<div id="view-all">
+    
+    @await Html.PartialAsync("_ViewAll", Model)
+    </div>
+
+    }
+
+    else
+    { <p> No User</p>}
+
+
+</div>
+

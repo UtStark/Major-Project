@@ -1,0 +1,396 @@
+﻿@model CollegeWebsite.Models.ViewModel.RegistrationVM
+@{
+    ViewData["Title"] = "Edit";
+    var title = "Create User";
+}
+
+
+<script>
+    
+    window.addEventListener("load", function () {
+        logic();
+
+    });
+    function StudentShow() {
+        $('#Form_Designation').hide()
+        $('label[for="Form_Designation"]').hide();
+        $('#Form_Stream').show()
+        $('label[for="Form_Stream"]').show();
+    }
+
+    function EmpShow() {
+        $('#Form_Designation').show()
+        $('label[for="Form_Designation"]').show();
+        $('#Form_Stream').hide()
+        $('label[for="Form_Stream"]').hide();
+    }
+
+    function hideall() {
+        $('#Form_Designation').hide()
+        $('label[for="Form_Designation"]').hide();
+        $('#Form_Stream').hide()
+        $('label[for="Form_Stream"]').hide();}
+
+    function logic() {
+        hideall();
+        if (document.querySelector('#Form_Role').value != "--Select Category--") {
+
+            if (document.querySelector('#Form_Role').value == "Student") {
+                StudentShow();
+            }
+
+            else {
+                EmpShow();
+
+            }
+        }
+
+        else {
+            hideall();
+
+        }
+    }
+        if (document.querySelector('#Form_Role').value != "") {
+
+            if (document.querySelector('#Form_Role').value == "Student") {
+                $('#Form_Designation').hide()
+                $('label[for="Form_Designation"]').hide();
+                $('#Form_Stream').show()
+                $('label[for="Form_Stream"]').show();
+            }
+
+            else {
+                $('#Form_Designation').show()
+                $('label[for="Form_Designation"]').show();
+                $('#Form_Stream').hide()
+                $('label[for="Form_Stream"]').hide();
+
+            }
+        }
+
+        else {
+            $('#Form_Designation').hide()
+            $('label[for="Form_Designation"]').hide();
+            $('#Form_Stream').hide()
+            $('label[for="Form_Stream"]').hide();
+
+        }
+   
+
+
+
+
+</script>
+<form  method="post" enctype="multipart/form-data">
+    <div class="border p-3">
+
+        @if (Model.Form.Id != 0)
+        {
+            <input asp-for="Form.Id" hidden />
+            title = "Edit User";
+        }
+
+
+
+        <div class="form-group row">
+            <h2 class="text-info pl-3">@title</h2>
+        </div>
+
+
+
+
+
+
+
+        <div class="row">
+            <div class="col-8">
+
+
+
+
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="Form.UserName"></label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="Form.UserName" class="form-control" />
+                        <span asp-validation-for="Form.UserName" class="text-danger"></span>
+                    </div>
+
+                </div>
+
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="Form.FirstName"></label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="Form.FirstName" class="form-control" />
+                        <span asp-validation-for="Form.FirstName" class="text-danger"></span>
+                    </div>
+
+                </div>
+
+
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="Form.LastName"></label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="Form.LastName" class="form-control" />
+                        <span asp-validation-for="Form.LastName" class="text-danger"></span>
+                    </div>
+
+                </div>
+
+
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="Form.Email"></label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="Form.Email" class="form-control " />
+                        <span asp-validation-for="Form.Email" class="text-danger"></span>
+                    </div>
+
+                </div>
+
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="Form.PhoneNo"></label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="Form.PhoneNo" class="form-control " />
+                        <span asp-validation-for="Form.PhoneNo" class="text-danger"></span>
+                    </div>
+
+                </div>
+
+
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="Form.Role"></label>
+
+                    </div>
+
+                    <div class="col-8">
+                        <select onchange="logic()" asp-for="Form.Role" asp-items="@Model.RoleSelectList" class="form-control">
+                            <option disabled selected> --Select Category-- </option>
+                        </select>
+                        <span asp-validation-for="Form.Role" class="text-danger"></span>
+                    </div>
+                </div>
+
+
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label style="display:none" asp-for="Form.Stream"></label>
+                    </div>
+                    <div class="col-8">
+                        <input style="display:none" asp-for="Form.Stream" class="form-control" />
+                        <span asp-validation-for="Form.Stream" class="text-danger"></span>
+                    </div>
+
+                </div>
+
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label style="display:none" asp-for="Form.Designation"></label>
+                    </div>
+                    <div class="col-8">
+                        <input style="display:none" asp-for="Form.Designation" class="form-control " />
+                        <span asp-validation-for="Form.Designation" class="text-danger"></span>
+                    </div>
+
+                </div>
+
+
+
+
+                @if (Model.Form.Id == 0)
+                {
+                    <div class="form-group row">
+                        <div class="col-4">
+                            <label asp-for="Form.Password"></label>
+                        </div>
+                        <div class="col-8">
+                            <input asp-for="Form.Password" class="form-control " />
+                            <span asp-validation-for="Form.Password" class="text-danger"></span>
+                        </div>
+
+                    </div>
+                }
+
+                @if (Model.Form.Role == "Student")
+                {
+                    <div class="form-group row">
+                        <div class="col-4">
+                            <label  asp-for="Form.Fine"></label>
+                        </div>
+                        <div class="col-8">
+                            <input  asp-for="Form.Fine" class="form-control " />
+                            <span asp-validation-for="Form.Fine" class="text-danger"></span>
+                        </div>
+
+                    </div>
+
+
+                    @if (Model.IssuedBooks.Count() > 0)
+                    {
+
+
+                        ////////////////////////////////
+                        ///
+
+                        <table class="table table-bordered table-striped table-dark" style="width:100%">
+                            <thead>
+                                <tr>
+
+                                    <th scope="col">
+
+                                        Book Name
+
+                                    </th>
+                                    <th scope="col">
+                                        Aurthor Name
+                                    </th>
+                                    <th scope="col">
+
+                                        Issued Date
+                                    </th>
+                                    <th scope="col">
+
+                                        Due Date
+                                    </th>
+
+                                    <th scope="col">
+                                        Issue/Return
+                                    </th>
+
+                                </tr>
+                            </thead>
+                            <tbody>
+
+                                @foreach (var obj in Model.IssuedBooks)
+                                {
+                                    <tr>
+                                        <td width="50%">@obj.BookName</td>
+                                        <td width="30%">@obj.AuthorName</td>
+                                        <!--<td class="text-center">
+
+                                <div class="w-75 btn-group " role="group">
+                                    <a asp-controller="Registration" asp-route-Id="@obj.Id" asp-action="Upsert" class="btn btn-primary mx-1"><i class="far fa-edit"></i>  Edit</a>
+                                    <a asp-controller="Registration" asp-route-Id="@obj.Id" asp-action="Delete" class="btn btn-danger "><i class="far fa-trash-alt"></i>  Delete</a>
+
+                                </div>
+                            </td>-->
+                                        <td width="30%">@obj.IssueDate</td>
+                                        <td width="30%">@obj.DueDate</td>
+                                        <td class="text-center">
+
+                                            <div class="w-75 btn-group " role="group">
+
+                                                <a asp-route-Id="@obj.Id" asp-action="Reissue" asp-route-studentId="@Model.Form.Id" class="btn btn-success"><i class="far fa-edit"></i>  Re-Issue</a>
+                                                <a asp-route-Id="@obj.Id" asp-route-studentId="@Model.Form.Id" asp-action="Return" class="btn btn-danger mx-1"><i class="far fa-edit"></i>  Return</a>
+
+                                            </div>
+                                        </td>
+                                    </tr>
+                                }
+
+
+                            </tbody>
+                        </table>
+
+                        ////////////////////////////////////
+
+
+
+
+                    }
+                    else
+                    { <p>No Books Issued</p>}
+
+                }
+
+
+
+
+
+
+
+
+
+
+                <!--
+
+    <div class="form-group row">
+        <div class="col-4">
+            <label asp-for="Product.CategoryId"></label>
+
+        </div>
+        <div class="col-8">
+            <select asp-for="Product.CategoryId" asp-items="" class="form-control">
+                <option disabled selected> --Select Category-- </option>
+            </select>
+            <span asp-validation-for="Product.CategoryId" class="text-danger"></span>
+        </div>
+
+    </div>
+
+
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="Product.ApplicationTypeId"></label>
+
+                    </div>
+                    <div class="col-8">
+                        <select asp-for="Product.ApplicationTypeId" asp-items="" class="form-control">
+                            <option disabled selected> --Select Category-- </option>
+                        </select>
+                        <span asp-validation-for="Product.ApplicationTypeId" class="text-danger"></span>
+                    </div>
+
+                </div>
+
+                     -->
+
+
+
+                <div class="form-group row">
+                    <div class="col-8 offset-4 row">
+
+                        <div class="col">
+                            @if (Model.Form.Id != 0)
+                            {
+                                //update
+                                <input type="submit" class="btn btn-info w-100" value="Update" />
+
+                            }
+                            else
+                            {
+                                //create
+                                <input type="submit" class="btn btn-primary w-100" value="Create" />
+
+                            }
+
+                        </div>
+                        <div class="col">
+                            <a asp-action="Index" class="btn btn-success w-100"><i class="fas fa-sign-out-alt"></i> Back</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            </div>
+    </div>
+</form>
+
+@section Scripts {
+
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+
+    
+
+}

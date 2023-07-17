@@ -1,0 +1,340 @@
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\appsettings.Development.json
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\appsettings.json
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\CollegeWebsite.StaticWebAssets.xml
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\CollegeWebsite.exe
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\CollegeWebsite.deps.json
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\CollegeWebsite.runtimeconfig.json
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\CollegeWebsite.runtimeconfig.dev.json
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\CollegeWebsite.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\ref\CollegeWebsite.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\CollegeWebsite.pdb
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\CollegeWebsite.Views.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\CollegeWebsite.Views.pdb
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Humanizer.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.AssemblyInfoInputs.cache
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.AssemblyInfo.cs
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.csproj.CoreCompileInputs.cache
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.MvcApplicationPartsAssemblyInfo.cs
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.MvcApplicationPartsAssemblyInfo.cache
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.RazorAssemblyInfo.cache
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.RazorAssemblyInfo.cs
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\staticwebassets\CollegeWebsite.StaticWebAssets.Manifest.cache
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\staticwebassets\CollegeWebsite.StaticWebAssets.xml
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\scopedcss\bundle\CollegeWebsite.styles.css
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.TagHelpers.input.cache
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.TagHelpers.output.cache
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.RazorCoreGenerate.cache
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Book\Delete.cshtml.g.cs
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Book\Index.cshtml.g.cs
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Book\Upsert.cshtml.g.cs
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Registration\Delete.cshtml.g.cs
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Registration\Index.cshtml.g.cs
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Registration\Upsert.cshtml.g.cs
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Role\Delete.cshtml.g.cs
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Role\Upsert.cshtml.g.cs
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Shared\_ViewAll.cshtml.g.cs
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.RazorTargetAssemblyInfo.cache
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.RazorTargetAssemblyInfo.cs
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.Views.pdb
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.csproj.CopyComplete
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\ref\CollegeWebsite.dll
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.pdb
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.genruntimeconfig.cache
+D:\Applications\CollegeWebsite\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.csprojAssemblyReference.cache
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\appsettings.Development.json
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\appsettings.json
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\CollegeWebsite.StaticWebAssets.xml
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\CollegeWebsite.exe
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\CollegeWebsite.deps.json
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\CollegeWebsite.runtimeconfig.json
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\CollegeWebsite.runtimeconfig.dev.json
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\CollegeWebsite.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\ref\CollegeWebsite.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\CollegeWebsite.pdb
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\CollegeWebsite.Views.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\CollegeWebsite.Views.pdb
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Humanizer.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.AssemblyInfoInputs.cache
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.AssemblyInfo.cs
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.csproj.CoreCompileInputs.cache
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.MvcApplicationPartsAssemblyInfo.cs
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.MvcApplicationPartsAssemblyInfo.cache
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.RazorAssemblyInfo.cache
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.RazorAssemblyInfo.cs
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\staticwebassets\CollegeWebsite.StaticWebAssets.Manifest.cache
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\staticwebassets\CollegeWebsite.StaticWebAssets.xml
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\scopedcss\bundle\CollegeWebsite.styles.css
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.TagHelpers.input.cache
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.TagHelpers.output.cache
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.RazorCoreGenerate.cache
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Book\Delete.cshtml.g.cs
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Book\Index.cshtml.g.cs
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Book\Upsert.cshtml.g.cs
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Registration\Delete.cshtml.g.cs
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Registration\Index.cshtml.g.cs
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Registration\Upsert.cshtml.g.cs
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Role\Delete.cshtml.g.cs
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Role\Upsert.cshtml.g.cs
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Shared\_ViewAll.cshtml.g.cs
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.RazorTargetAssemblyInfo.cache
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.RazorTargetAssemblyInfo.cs
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.Views.pdb
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.csproj.CopyComplete
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\ref\CollegeWebsite.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.pdb
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.genruntimeconfig.cache
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\Razor\Views\Book\Issue.cshtml.g.cs
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\MySqlConnector.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Applications\CollegeWebsite - Copy\CollegeWebsite\obj\Debug\net5.0\CollegeWebsite.csprojAssemblyReference.cache
