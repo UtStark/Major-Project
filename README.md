@@ -1,5 +1,5 @@
 # Major-Project
-College Library System
+College Library System -
 A basic website for a library management system 
 
 
